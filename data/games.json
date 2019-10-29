@@ -4,91 +4,99 @@
             "name":"Zelda",
             "description":"The Legend of Zelda: Breath of the Wild",
             "link":"https://www.nintendo.com/games/detail/the-legend-of-zelda-breath-of-the-wild-switch/",
-            "type":"physical"
+            "type":"physical",
+            "image":"/images/Zelda.jpeg"
         },
         {
             "name":"Mario Kart",
             "description":"",
             "link":"",
-            "type":"physical"
+            "type":"physical",
+            "image":"/images/MarioKartDeluxe8.jpeg"
         },
         {
             "name":"Pokémon Let's Go Pikachu",
             "description":"",
             "link":"",
-            "type":"physical"
+            "type":"physical",
+            "image":"/images/PokémonLetsGoPikachu.png"
         },
         {
             "name":"MegaDrive Collection",
             "description":"",
             "link":"",
-            "type":"physical"
+            "type":"physical",
+            "image":"/images/SegaMegaDriveClassics.png"
         },
         {
             "name":"Super Mario Party",
             "description":"",
             "link":"",
-            "type":"physical"
-        },
-        {
-            "name":"Mario Kart",
-            "description":"",
-            "link":"",
-            "type":"physical"
+            "type":"physical",
+            "image":"/images/SuperMarioParty.png"
         },
         {
             "name":"Super Mario Odyssey",
             "description":"",
             "link":"",
-            "type":"physical"
+            "type":"physical",
+            "image":"/images/SuperMarioOdyssey.jpeg"
         },
         {
             "name":"Super Mario U Deluxe",
             "description":"",
             "link":"",
-            "type":"physical"
+            "type":"physical",
+            "image":"/images/SuperMarioUDeluxe.jpeg"
         },
         {
             "name":"Sonic Mania",
             "description":"",
             "link":"",
-            "type":"digital"
+            "type":"digital",
+            "image":"/images/SonicManiaPlus.png"
         },
         {
             "name":"The Escapists",
             "description":"",
             "link":"",
-            "type":"digital"
+            "type":"digital",
+            "image":"/images/TheEscapists.png"
         },
         {
             "name":"The Way Remastered",
             "description":"",
             "link":"",
-            "type":"digital"
+            "type":"digital",
+            "image":"/images/The WayRemastered.jpeg"
         },
         {
             "name":"Thimbleweed Park",
             "description":"",
             "link":"",
-            "type":"digital"
+            "type":"digital",
+            "image":"/images/ThimbleweedPark.jpeg"
         },
         {
             "name":"Lunark",
             "description":"",
             "link":"",
-            "type":"digital"
+            "type":"digital",
+            "image":"/images/Lunark.png"
         },
         {
             "name":"Xeno Crisis (Sega Genesis)",
             "description":"",
             "link":"",
-            "type":"digital"
+            "type":"digital",
+            "image":"/images/XenoCrisis.png"
         },
         {
             "name":"R Type",
             "description":"",
             "link":"",
-            "type":"physical"
+            "type":"physical",
+            "image":"/images/r-type-dimensions.jpg"
         }
     ]
 }
