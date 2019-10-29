@@ -1,0 +1,94 @@
+{
+    "games": [
+        {
+            "name":"Zelda",
+            "description":"The Legend of Zelda: Breath of the Wild",
+            "link":"https://www.nintendo.com/games/detail/the-legend-of-zelda-breath-of-the-wild-switch/",
+            "type":"physical"
+        },
+        {
+            "name":"Mario Kart",
+            "description":"",
+            "link":"",
+            "type":"physical"
+        },
+        {
+            "name":"Pokémon Let's Go Pikachu",
+            "description":"",
+            "link":"",
+            "type":"physical"
+        },
+        {
+            "name":"MegaDrive Collection",
+            "description":"",
+            "link":"",
+            "type":"physical"
+        },
+        {
+            "name":"Super Mario Party",
+            "description":"",
+            "link":"",
+            "type":"physical"
+        },
+        {
+            "name":"Mario Kart",
+            "description":"",
+            "link":"",
+            "type":"physical"
+        },
+        {
+            "name":"Super Mario Odyssey",
+            "description":"",
+            "link":"",
+            "type":"physical"
+        },
+        {
+            "name":"Super Mario U Deluxe",
+            "description":"",
+            "link":"",
+            "type":"physical"
+        },
+        {
+            "name":"Sonic Mania",
+            "description":"",
+            "link":"",
+            "type":"digital"
+        },
+        {
+            "name":"The Escapists",
+            "description":"",
+            "link":"",
+            "type":"digital"
+        },
+        {
+            "name":"The Way Remastered",
+            "description":"",
+            "link":"",
+            "type":"digital"
+        },
+        {
+            "name":"Thimbleweed Park",
+            "description":"",
+            "link":"",
+            "type":"digital"
+        },
+        {
+            "name":"Lunark",
+            "description":"",
+            "link":"",
+            "type":"digital"
+        },
+        {
+            "name":"Xeno Crisis (Sega Genesis)",
+            "description":"",
+            "link":"",
+            "type":"digital"
+        },
+        {
+            "name":"R Type",
+            "description":"",
+            "link":"",
+            "type":"physical"
+        }
+    ]
+}
