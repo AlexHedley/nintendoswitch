@@ -10,6 +10,7 @@
     <meta name="author" content="Alex Hedley">
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/sticky-footer.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
     <!-- <link rel="stylesheet" href="css/jquery-ui.min.css"> -->
     <link rel="stylesheet" href="css/jquery-ui.1.12.1.min.css">
@@ -26,30 +27,56 @@
         
     <div ng-controller="myController">
 
-        <h1>Nintendo Switch</h1>
+        <main role="main" class="container">
 
-        <div class="container">
-            <div class="row">
-                
-                <div 
-                    ng-repeat="game in games"
-                >
-
-                    <div class="card" style="width: 18rem;">
-                        <img ng-src="/nintendoswitch/{{game.image}}" class="card-img-top" alt="{{game.name}}">
-                        <div class="card-body">
-                            <h5 class="card-title">{{game.name}}</h5>
-                            <p class="card-text">{{game.description}}</p>
-                            <a ng-href="{{game.link}}" target="_blank" class="btn btn-danger">Official Link</a>
+            <section class="jumbotron title-container text-center">
+                <div>
+                    <h1>Nintendo Switch</h1>
+    
+                    <div class="row justify-content-md-center">
+                        <div class="col-lg-8">
+                            <div class="input-group search-bar">
+                                <input type="text" class="form-control" ng-model='searchText' placeholder="Search for a Game..." aria-label="Search">
+                                <button type="submit" class="btn btn-default"><i class="fa fa-search"></i></button>
+                            </div>
                         </div>
                     </div>
-
+    
                 </div>
+            </section>
 
-                
-
+            <div class="container">
+                <div class="row">
+                    
+                    <div 
+                        ng-repeat="game in games | filter:searchText"
+                        class="col-md-4"
+                        style="margin-bottom: 50px;"
+                    >
+    
+                        <div class="card" style="width: 18rem;">
+                            <img ng-src="/nintendoswitch/{{game.image}}" class="card-img-top" alt="{{game.name}}">
+                            <div class="card-body">
+                                <h5 class="card-title">{{game.name}}</h5>
+                                <p class="card-text">{{game.description}}</p>
+                                <a ng-href="{{game.link}}" target="_blank" class="btn btn-danger">Official Link</a>
+                            </div>
+                        </div>
+    
+                    </div>
+    
+                    
+    
+                </div>
             </div>
-        </div>
+
+        </main>
+        
+        <footer class="footer">
+            <div class="container">
+                <span class="text-muted">Alex Hedley.</span>
+            </div>
+        </footer>
 
     </div>
 
