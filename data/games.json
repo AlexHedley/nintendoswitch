@@ -97,6 +97,13 @@
             "link":"",
             "type":"physical",
             "image":"/images/r-type-dimensions.jpg"
+        },
+        {
+            "name":"Super Smash Bros. Ultimate",
+            "description":"Legendary game worlds and fighters collide in the ultimate showdown – a new entry in the Super Smash Bros. series for Nintendo Switch!",
+            "link":"https://www.nintendo.co.uk/Games/Nintendo-Switch/Super-Smash-Bros-Ultimate-1395713.html",
+            "type":"physical",
+            "image":"/images/SuperSmashBrosUltimate.jpg"
         }
     ]
 }
