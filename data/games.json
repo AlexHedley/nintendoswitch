@@ -111,6 +111,13 @@
             "link":"https://www.nintendo.co.uk/Games/Nintendo-Switch/Luigi-s-Mansion-3-1437312.html",
             "type":"physical",
             "image":"/images/LuigisMansion3.jpeg"
+        },
+        {
+            "name":"Pokémon Sword",
+            "description":"",
+            "link":"https://www.nintendo.co.uk/Games/Nintendo-Switch/Pokemon-Sword-1522111.html",
+            "type":"physical",
+            "image":"/images/PokémonSword.jpeg"
         }
     ]
 }
