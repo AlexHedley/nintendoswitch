@@ -104,6 +104,13 @@
             "link":"https://www.nintendo.co.uk/Games/Nintendo-Switch/Super-Smash-Bros-Ultimate-1395713.html",
             "type":"physical",
             "image":"/images/SuperSmashBrosUltimate.jpg"
+        },
+        {
+            "name":"Luigi's Mansion 3",
+            "description":"",
+            "link":"https://www.nintendo.co.uk/Games/Nintendo-Switch/Luigi-s-Mansion-3-1437312.html",
+            "type":"physical",
+            "image":"/images/LuigisMansion3.jpeg"
         }
     ]
 }
