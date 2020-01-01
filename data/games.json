@@ -118,6 +118,13 @@
             "link":"https://www.nintendo.co.uk/Games/Nintendo-Switch/Pokemon-Sword-1522111.html",
             "type":"physical",
             "image":"/images/PokémonSword.jpeg"
+        },
+        {
+            "name":"1-2-Switch",
+            "description":"",
+            "link":"https://www.nintendo.co.uk/Games/Nintendo-Switch/1-2-Switch-1173186.html",
+            "type":"physical",
+            "image":"/images/1-2-Switch.jpeg"
         }
     ]
 }
