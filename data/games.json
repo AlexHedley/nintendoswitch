@@ -132,6 +132,13 @@
             "link":"https://www.nintendo.co.uk/Games/Nintendo-Switch/Zumba-Burn-It-Up--1662260.html",
             "type":"physical",
             "image":"/images/Zumba.jpeg"
+        },
+        {
+            "name":"Animal Crossing: New Horizons",
+            "description":"Release date: 20/03/2020",
+            "link":"https://www.nintendo.co.uk/Games/Nintendo-Switch/Animal-Crossing-New-Horizons-1438623.html",
+            "type":"physical",
+            "image":"/images/AnimalCrossingNewHorizons.jpeg"
         }
     ]
 }
