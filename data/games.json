@@ -125,6 +125,13 @@
             "link":"https://www.nintendo.co.uk/Games/Nintendo-Switch/1-2-Switch-1173186.html",
             "type":"physical",
             "image":"/images/1-2-Switch.jpeg"
+        },
+        {
+            "name":"Zumba® Burn It Up!",
+            "description":"",
+            "link":"https://www.nintendo.co.uk/Games/Nintendo-Switch/Zumba-Burn-It-Up--1662260.html",
+            "type":"physical",
+            "image":"/images/Zumba.jpeg"
         }
     ]
 }
