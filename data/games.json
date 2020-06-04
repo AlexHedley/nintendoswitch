@@ -139,6 +139,13 @@
             "link":"https://www.nintendo.co.uk/Games/Nintendo-Switch/Animal-Crossing-New-Horizons-1438623.html",
             "type":"physical",
             "image":"/images/AnimalCrossingNewHorizons.jpeg"
+        },
+        {
+            "name":"Ring Fit Adventure",
+            "description":"Release date: 18/10/2019",
+            "link":"https://www.nintendo.co.uk/Games/Nintendo-Switch/Ring-Fit-Adventure-1638708.html",
+            "type":"physical",
+            "image":"/images/RingFitAdventure.jpg"
         }
     ]
 }
