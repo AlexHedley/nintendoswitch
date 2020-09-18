@@ -146,6 +146,13 @@
             "link":"https://www.nintendo.co.uk/Games/Nintendo-Switch/Ring-Fit-Adventure-1638708.html",
             "type":"physical",
             "image":"/images/RingFitAdventure.jpg"
+        },
+        {
+            "name":"Super Mario 3D All Stars",
+            "description":"Release date: 18/09/2020",
+            "link":"https://www.nintendo.co.uk/Games/Nintendo-Switch/Super-Mario-3D-All-Stars-1832369.html",
+            "type":"physical",
+            "image":"/images/SuperMario3DAllStars.jpeg"
         }
     ]
 }
