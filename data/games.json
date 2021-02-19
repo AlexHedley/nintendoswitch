@@ -153,6 +153,13 @@
             "link":"https://www.nintendo.co.uk/Games/Nintendo-Switch/Super-Mario-3D-All-Stars-1832369.html",
             "type":"physical",
             "image":"/images/SuperMario3DAllStars.jpeg"
+        },
+        {
+            "name":"51 Worldwide Games",
+            "description":"Release date: 05/06/2020",
+            "link":"https://www.nintendo.co.uk/Games/Nintendo-Switch/51-Worldwide-Games-1748086.html",
+            "type":"physical",
+            "image":"/images/51WorldwideGames.jpg"
         }
     ]
 }
