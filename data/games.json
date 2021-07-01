@@ -160,6 +160,13 @@
             "link":"https://www.nintendo.co.uk/Games/Nintendo-Switch/51-Worldwide-Games-1748086.html",
             "type":"physical",
             "image":"/images/51WorldwideGames.jpg"
+        },
+        {
+            "name":"Just Dance® 2021",
+            "description":"Release date: 12/11/2020",
+            "link":"https://www.nintendo.co.uk/Games/Nintendo-Switch/Just-Dance-2021-1832849.html",
+            "type":"physical",
+            "image":"/images/JustDance2021.jpg"
         }
     ]
 }
