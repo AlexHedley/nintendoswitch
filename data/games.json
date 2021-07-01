@@ -8,16 +8,16 @@
             "image":"/images/Zelda.jpeg"
         },
         {
-            "name":"Mario Kart",
-            "description":"",
-            "link":"",
+            "name":"Mario Kart 8 Deluxe",
+            "description":"Release date: 28/04/2017",
+            "link":"https://www.nintendo.co.uk/Games/Nintendo-Switch/Mario-Kart-8-Deluxe-1173281.html",
             "type":"physical",
             "image":"/images/MarioKartDeluxe8.jpeg"
         },
         {
             "name":"Pokémon Let's Go Pikachu",
-            "description":"",
-            "link":"",
+            "description":"Release date: 16/11/2018",
+            "link":"https://www.nintendo.co.uk/Games/Nintendo-Switch/Pokemon-Let-s-Go-Pikachu--1382836.html",
             "type":"physical",
             "image":"/images/PokémonLetsGoPikachu.png"
         },
@@ -30,22 +30,22 @@
         },
         {
             "name":"Super Mario Party",
-            "description":"",
-            "link":"",
+            "description":"Release date: 05/10/2018",
+            "link":"https://www.nintendo.co.uk/Games/Nintendo-Switch/Super-Mario-Party-1388641.html",
             "type":"physical",
             "image":"/images/SuperMarioParty.png"
         },
         {
             "name":"Super Mario Odyssey",
-            "description":"",
-            "link":"",
+            "description":"Release date: 27/10/2017",
+            "link":"https://www.nintendo.co.uk/Games/Nintendo-Switch/Super-Mario-Odyssey-1173332.html",
             "type":"physical",
             "image":"/images/SuperMarioOdyssey.jpeg"
         },
         {
             "name":"Super Mario U Deluxe",
-            "description":"",
-            "link":"",
+            "description":"Release date: 11/01/2019",
+            "link":"https://www.nintendo.co.uk/Games/Nintendo-Switch/New-Super-Mario-Bros-U-Deluxe-1438640.html",
             "type":"physical",
             "image":"/images/SuperMarioUDeluxe.jpeg"
         },
@@ -100,35 +100,35 @@
         },
         {
             "name":"Super Smash Bros. Ultimate",
-            "description":"Legendary game worlds and fighters collide in the ultimate showdown – a new entry in the Super Smash Bros. series for Nintendo Switch!",
+            "description":"Legendary game worlds and fighters collide in the ultimate showdown – a new entry in the Super Smash Bros. series for Nintendo Switch! | Release date: 07/12/2018",
             "link":"https://www.nintendo.co.uk/Games/Nintendo-Switch/Super-Smash-Bros-Ultimate-1395713.html",
             "type":"physical",
             "image":"/images/SuperSmashBrosUltimate.jpg"
         },
         {
             "name":"Luigi's Mansion 3",
-            "description":"",
+            "description":"Release date: 31/10/2019",
             "link":"https://www.nintendo.co.uk/Games/Nintendo-Switch/Luigi-s-Mansion-3-1437312.html",
             "type":"physical",
             "image":"/images/LuigisMansion3.jpeg"
         },
         {
             "name":"Pokémon Sword",
-            "description":"",
+            "description":"Release date: 15/11/2019",
             "link":"https://www.nintendo.co.uk/Games/Nintendo-Switch/Pokemon-Sword-1522111.html",
             "type":"physical",
             "image":"/images/PokémonSword.jpeg"
         },
         {
             "name":"1-2-Switch",
-            "description":"",
+            "description":"Release date: 03/03/2017",
             "link":"https://www.nintendo.co.uk/Games/Nintendo-Switch/1-2-Switch-1173186.html",
             "type":"physical",
             "image":"/images/1-2-Switch.jpeg"
         },
         {
             "name":"Zumba® Burn It Up!",
-            "description":"",
+            "description":"Release date: 22/11/2019",
             "link":"https://www.nintendo.co.uk/Games/Nintendo-Switch/Zumba-Burn-It-Up--1662260.html",
             "type":"physical",
             "image":"/images/Zumba.jpeg"
