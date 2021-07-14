@@ -167,6 +167,13 @@
             "link":"https://www.nintendo.co.uk/Games/Nintendo-Switch/Just-Dance-2021-1832849.html",
             "type":"physical",
             "image":"/images/JustDance2021.jpg"
+        },
+        {
+            "name":"Tony Hawk's™ Pro Skater™ 1 + 2",
+            "description":"Release date: 25/06/2021",
+            "link":"https://www.nintendo.co.uk/Games/Nintendo-Switch/Tony-Hawk-s-Pro-Skater-1-2-1987422.html",
+            "type":"physical",
+            "image":"/images/TonyHawks.jpg"
         }
     ]
 }
