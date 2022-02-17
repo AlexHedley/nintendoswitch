@@ -176,6 +176,13 @@
             "image":"/images/TonyHawks.jpg"
         },
         {
+            "name":"Flashback",
+            "description":"Release date: 19/06/2018",
+            "link":"https://www.nintendo.co.uk/Games/Nintendo-Switch-games/Flashback-1387444.html",
+            "type":"digital",
+            "image":"/images/Flashback.jpg"
+        },
+        {
             "name":"Pokémon Legends: Arceus",
             "description":"Release date: 28/01/2022",
             "link":"https://www.nintendo.co.uk/Games/Nintendo-Switch-games/Pokemon-Legends-Arceus-1930510.html",
