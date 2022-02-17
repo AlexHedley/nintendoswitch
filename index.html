@@ -31,14 +31,13 @@
 
             <section class="jumbotron title-container text-center">
                 <div>
-                    <i class="fab fa-nintendo-switch"></i>
-                    <h1>Nintendo Switch</h1>
+                    <h1><i class="fab fa-nintendo-switch"></i> Nintendo Switch</h1>
     
                     <div class="row justify-content-md-center">
                         <div class="col-lg-8">
                             <div class="input-group search-bar">
                                 <input type="text" class="form-control" ng-model='searchText' placeholder="Search for a Game..." aria-label="Search">
-                                <button type="submit" class="btn btn-default"><i class="fa fa-search"></i></button>
+                                <button type="submit" class="btn btn-danger"><i class="fa fa-search"></i></button>
                             </div>
                         </div>
                     </div>
@@ -60,14 +59,13 @@
                             <div class="card-body">
                                 <h5 class="card-title">{{game.name}}</h5>
                                 <p class="card-text">{{game.description}}</p>
+                                <p class="card-text">{{game.releaseDate}}</p>
                                 <a ng-href="{{game.link}}" target="_blank" class="btn btn-danger">Official Link</a>
                             </div>
                         </div>
     
                     </div>
-    
-                    
-    
+
                 </div>
             </div>
 
@@ -75,7 +73,7 @@
         
         <footer class="footer">
             <div class="container">
-                <span class="text-muted">Alex Hedley.</span>
+                <span class="text-muted"><a href="https://alexhedley.github.io/" target="_blank">Alex Hedley</a>.</span>
             </div>
         </footer>
 
