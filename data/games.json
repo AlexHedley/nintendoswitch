@@ -215,6 +215,14 @@
             "link":"https://www.nintendo.co.uk/Games/Nintendo-Switch-games/Pokemon-Legends-Arceus-1930510.html",
             "type":"physical",
             "image":"/images/PokemonLegendsArceus.jpg"
+        },
+        {
+            "name":"Nintendo Switch Sports",
+            "description":"",
+            "releaseDate":"29/04/2022",
+            "link":"https://www.nintendo.co.uk/Games/Nintendo-Switch-games/Nintendo-Switch-Sports-2168292.html",
+            "type":"physical",
+            "image":"/images/NintendoSwitchSports.jpg"
         }
     ]
 }
