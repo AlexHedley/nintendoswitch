@@ -223,6 +223,14 @@
             "link":"https://www.nintendo.co.uk/Games/Nintendo-Switch-games/Nintendo-Switch-Sports-2168292.html",
             "type":"physical",
             "image":"/images/NintendoSwitchSports.jpg"
+        },
+        {
+            "name":"Teenage Mutant Ninja Turtles: Shredder's Revenge",
+            "description": "🐢",
+            "releaseDate":"16/06/2022",
+            "link":"https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Teenage-Mutant-Ninja-Turtles-Shredder-s-Revenge-1951281.html",
+            "type":"physical",
+            "image":"/images/TMNT-SR.jpg"
         }
     ]
 }
