@@ -50,12 +50,12 @@
                     
                     <div 
                         ng-repeat="game in games | filter:searchText"
-                        class="col-md-4"
+                        class="col-md-3"
                         style="margin-bottom: 50px;"
                     >
     
                         <div class="card" style="width: 18rem;">
-                            <img ng-src="/nintendoswitch/{{game.image}}" class="card-img-top" alt="{{game.name}}">
+                            <img ng-src="{{game.image}}" class="card-img-top" alt="{{game.name}}">
                             <div class="card-body">
                                 <h5 class="card-title">{{game.name}}</h5>
                                 <p class="card-text">{{game.description}}</p>
@@ -74,6 +74,7 @@
         <footer class="footer">
             <div class="container">
                 <span class="text-muted"><a href="https://alexhedley.github.io/" target="_blank">Alex Hedley</a>.</span>
+                <span class="float-right"><i class="fab fa-github"></i> <a href="https://github.com/AlexHedley/nintendoswitch">GitHub</a></span>
             </div>
         </footer>
 

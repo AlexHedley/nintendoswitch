@@ -16,3 +16,9 @@ Nintendo Switch Games etc
 [Site](https://alexhedley.github.io/nintendoswitch/)
 
 Images borrowed from various sources, Nintendo site, Amazon etc
+
+## Run
+
+`python -m http.server -b 127.0.0.1`
+
+- [local](http://localhost:8000/)
