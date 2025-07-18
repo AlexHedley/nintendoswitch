@@ -1,6 +1,7 @@
 <!doctype html>
 <html lang="en">
-  <head>
+
+<head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -22,9 +23,10 @@
     <!-- <link href='https://fonts.googleapis.com/css?family=Orbitron' rel='stylesheet' type='text/css'> -->
 
     <title>Nintendo Switch</title>
-  </head>
-  <body ng-app="myApp">
-        
+</head>
+
+<body ng-app="myApp">
+
     <div ng-controller="myController">
 
         <main role="main" class="container">
@@ -32,7 +34,7 @@
             <section class="jumbotron title-container text-center">
                 <div>
                     <h1><i class="fab fa-nintendo-switch"></i> Nintendo Switch</h1>
-    
+
                     <div class="row justify-content-md-center">
                         <div class="col-lg-8">
                             <div class="input-group search-bar">
@@ -41,36 +43,39 @@
                             </div>
                         </div>
                     </div>
-    
+
                 </div>
             </section>
 
             <div class="container">
                 <div class="row">
-                    
-                    <div 
-                        ng-repeat="game in games | filter:searchText"
-                        class="col-md-3"
-                        style="margin-bottom: 50px;"
-                    >
-    
+
+                    <div ng-repeat="game in games | filter:searchText" class="col-md-3" style="margin-bottom: 50px;">
+
                         <div class="card" style="width: 18rem;">
-                            <img ng-src="{{game.image}}" class="card-img-top" alt="{{game.name}}">
+                            <img ng-if="game.image.length > 0" ng-src="{{game.image}}" class="card-img-top" alt="{{game.name}}">
+                            <div class="card-header">
+                                {{game.name}}
+                            </div>
                             <div class="card-body">
-                                <h5 class="card-title">{{game.name}}</h5>
+                                <!-- <h5 class="card-title">{{game.name}}</h5> -->
                                 <p class="card-text">{{game.description}}</p>
-                                <p class="card-text">{{game.releaseDate}}</p>
-                                <a ng-href="{{game.link}}" target="_blank" class="btn btn-danger">Official Link</a>
+                                <!-- <p class="card-text">{{game.releaseDate}}</p> -->
+                                <a ng-if="game.link.length > 0" ng-href="{{game.link}}" target="_blank" class="btn btn-danger">Official Link</a>
+                                <!-- <span>{{game.type}}</span> -->
+                            </div>
+                            <div class="card-footer text-muted">
+                                <span ng-if="game.releaseDate.length > 0">{{game.releaseDate | toDate | date:'mediumDate'}}</span>
                             </div>
                         </div>
-    
+
                     </div>
 
                 </div>
             </div>
 
         </main>
-        
+
         <footer class="footer">
             <div class="container">
                 <span class="text-muted"><a href="https://alexhedley.github.io/" target="_blank">Alex Hedley</a>.</span>
@@ -82,7 +87,7 @@
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="js/jquery-3.7.1.min.js" ></script>
+    <script src="js/jquery-3.7.1.min.js"></script>
     <script>window.jQuery || document.write('<script src="js/jquery-3.7.1.slim.min.js"><\/script>')</script>
     <script src="js/jquery-ui.min.js"></script>
     <!-- <script src="js/jquery-ui.1.12.1.min.js"></script> -->
@@ -92,6 +97,10 @@
     <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.8/angular.min.js"></script> -->
     <!-- <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.7.5/angular.min.js"></script> -->
     <script src="js/angular.min.js"></script>
+
     <script src="js/app.js"></script>
-    </body>
+    <script src="js/filters.js"></script>
+
+</body>
+
 </html>
