@@ -6,7 +6,7 @@
             "releaseDate": "03/03/2017",
             "link": "https://www.nintendo.com/games/detail/the-legend-of-zelda-breath-of-the-wild-switch/",
             "type": "physical",
-            "image": "/images/Zelda.jpeg"
+            "image": "images/Zelda.jpeg"
         },
         {
             "name": "Mario Kart 8 Deluxe",
@@ -14,7 +14,7 @@
             "releaseDate": "28/04/2017",
             "link": "https://www.nintendo.co.uk/Games/Nintendo-Switch/Mario-Kart-8-Deluxe-1173281.html",
             "type": "physical",
-            "image": "/images/MarioKartDeluxe8.jpeg"
+            "image": "images/MarioKartDeluxe8.jpeg"
         },
         {
             "name": "Pokémon Let's Go Pikachu",
@@ -22,7 +22,7 @@
             "releaseDate": "16/11/2018",
             "link": "https://www.nintendo.co.uk/Games/Nintendo-Switch/Pokemon-Let-s-Go-Pikachu--1382836.html",
             "type": "physical",
-            "image": "/images/PokémonLetsGoPikachu.png"
+            "image": "images/PokémonLetsGoPikachu.png"
         },
         {
             "name": "MegaDrive Collection",
@@ -30,7 +30,7 @@
             "releaseDate": "06/12/2018",
             "link": "https://www.nintendo.co.uk/Games/Nintendo-Switch-games/SEGA-Mega-Drive-Classics--1476990.html",
             "type": "physical",
-            "image": "/images/SegaMegaDriveClassics.png"
+            "image": "images/SegaMegaDriveClassics.png"
         },
         {
             "name": "Super Mario Party",
@@ -38,7 +38,7 @@
             "releaseDate": "05/10/2018",
             "link": "https://www.nintendo.co.uk/Games/Nintendo-Switch/Super-Mario-Party-1388641.html",
             "type": "physical",
-            "image": "/images/SuperMarioParty.png"
+            "image": "images/SuperMarioParty.png"
         },
         {
             "name": "Super Mario Odyssey",
@@ -46,7 +46,7 @@
             "releaseDate": "27/10/2017",
             "link": "https://www.nintendo.co.uk/Games/Nintendo-Switch/Super-Mario-Odyssey-1173332.html",
             "type": "physical",
-            "image": "/images/SuperMarioOdyssey.jpeg"
+            "image": "images/SuperMarioOdyssey.jpeg"
         },
         {
             "name": "Super Mario U Deluxe",
@@ -54,7 +54,7 @@
             "releaseDate": "11/01/2019",
             "link": "https://www.nintendo.co.uk/Games/Nintendo-Switch/New-Super-Mario-Bros-U-Deluxe-1438640.html",
             "type": "physical",
-            "image": "/images/SuperMarioUDeluxe.jpeg"
+            "image": "images/SuperMarioUDeluxe.jpeg"
         },
         {
             "name": "Sonic Mania",
@@ -62,7 +62,7 @@
             "releaseDate": "15/08/2017",
             "link": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Sonic-Mania-1174779.html",
             "type": "digital",
-            "image": "/images/SonicManiaPlus.png"
+            "image": "images/SonicManiaPlus.png"
         },
         {
             "name": "The Escapists",
@@ -70,7 +70,7 @@
             "releaseDate": "25/09/2018",
             "link": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/The-Escapists-Complete-Edition-1447177.html",
             "type": "digital",
-            "image": "/images/TheEscapists.png"
+            "image": "images/TheEscapists.png"
         },
         {
             "name": "The Way Remastered",
@@ -78,7 +78,7 @@
             "releaseDate": "20/04/2018",
             "link": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/The-Way-Remastered-1362896.html",
             "type": "digital",
-            "image": "/images/TheWayRemastered.jpeg"
+            "image": "images/TheWayRemastered.jpeg"
         },
         {
             "name": "Thimbleweed Park",
@@ -86,7 +86,7 @@
             "releaseDate": "21/09/2017",
             "link": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Thimbleweed-Park-1280227.html",
             "type": "digital",
-            "image": "/images/ThimbleweedPark.jpeg"
+            "image": "images/ThimbleweedPark.jpeg"
         },
         {
             "name": "Lunark",
@@ -94,7 +94,7 @@
             "releaseDate": "",
             "link": "",
             "type": "digital",
-            "image": "/images/Lunark.png"
+            "image": "images/Lunark.png"
         },
         {
             "name": "Xeno Crisis (Sega Genesis)",
@@ -102,7 +102,7 @@
             "releaseDate": "28/10/2019",
             "link": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Xeno-Crisis-1659668.html",
             "type": "digital",
-            "image": "/images/XenoCrisis.jpg"
+            "image": "images/XenoCrisis.jpg"
         },
         {
             "name": "R-Type Dimensions EX",
@@ -110,7 +110,7 @@
             "releaseDate": "28/11/2018",
             "link": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/R-Type-Dimensions-EX-1470335.html",
             "type": "physical",
-            "image": "/images/r-type-dimensions.jpg"
+            "image": "images/r-type-dimensions.jpg"
         },
         {
             "name": "Super Smash Bros. Ultimate",
@@ -118,7 +118,7 @@
             "releaseDate": "07/12/2018",
             "link": "https://www.nintendo.co.uk/Games/Nintendo-Switch/Super-Smash-Bros-Ultimate-1395713.html",
             "type": "physical",
-            "image": "/images/SuperSmashBrosUltimate.jpg"
+            "image": "images/SuperSmashBrosUltimate.jpg"
         },
         {
             "name": "Luigi's Mansion 3",
@@ -126,7 +126,7 @@
             "releaseDate": "31/10/2019",
             "link": "https://www.nintendo.co.uk/Games/Nintendo-Switch/Luigi-s-Mansion-3-1437312.html",
             "type": "physical",
-            "image": "/images/LuigisMansion3.jpeg"
+            "image": "images/LuigisMansion3.jpeg"
         },
         {
             "name": "Pokémon Sword",
@@ -134,7 +134,7 @@
             "releaseDate": "15/11/2019",
             "link": "https://www.nintendo.co.uk/Games/Nintendo-Switch/Pokemon-Sword-1522111.html",
             "type": "physical",
-            "image": "/images/PokémonSword.jpeg"
+            "image": "images/PokémonSword.jpeg"
         },
         {
             "name": "1-2-Switch",
@@ -142,7 +142,7 @@
             "releaseDate": "03/03/2017",
             "link": "https://www.nintendo.co.uk/Games/Nintendo-Switch/1-2-Switch-1173186.html",
             "type": "physical",
-            "image": "/images/1-2-Switch.jpeg"
+            "image": "images/1-2-Switch.jpeg"
         },
         {
             "name": "Zumba® Burn It Up!",
@@ -150,7 +150,7 @@
             "releaseDate": "22/11/2019",
             "link": "https://www.nintendo.co.uk/Games/Nintendo-Switch/Zumba-Burn-It-Up--1662260.html",
             "type": "physical",
-            "image": "/images/Zumba.jpeg"
+            "image": "images/Zumba.jpeg"
         },
         {
             "name": "Animal Crossing: New Horizons",
@@ -158,7 +158,7 @@
             "releaseDate": "20/03/2020",
             "link": "https://www.nintendo.co.uk/Games/Nintendo-Switch/Animal-Crossing-New-Horizons-1438623.html",
             "type": "physical",
-            "image": "/images/AnimalCrossingNewHorizons.jpeg"
+            "image": "images/AnimalCrossingNewHorizons.jpeg"
         },
         {
             "name": "Ring Fit Adventure",
@@ -166,7 +166,7 @@
             "releaseDate": "18/10/2019",
             "link": "https://www.nintendo.co.uk/Games/Nintendo-Switch/Ring-Fit-Adventure-1638708.html",
             "type": "physical",
-            "image": "/images/RingFitAdventure.jpg"
+            "image": "images/RingFitAdventure.jpg"
         },
         {
             "name": "Super Mario 3D All Stars",
@@ -174,7 +174,7 @@
             "releaseDate": "18/09/2020",
             "link": "https://www.nintendo.co.uk/Games/Nintendo-Switch/Super-Mario-3D-All-Stars-1832369.html",
             "type": "physical",
-            "image": "/images/SuperMario3DAllStars.jpeg"
+            "image": "images/SuperMario3DAllStars.jpeg"
         },
         {
             "name": "51 Worldwide Games",
@@ -182,7 +182,7 @@
             "releaseDate": "05/06/2020",
             "link": "https://www.nintendo.co.uk/Games/Nintendo-Switch/51-Worldwide-Games-1748086.html",
             "type": "physical",
-            "image": "/images/51WorldwideGames.jpg"
+            "image": "images/51WorldwideGames.jpg"
         },
         {
             "name": "Just Dance® 2021",
@@ -190,7 +190,7 @@
             "releaseDate": "12/11/2020",
             "link": "https://www.nintendo.co.uk/Games/Nintendo-Switch/Just-Dance-2021-1832849.html",
             "type": "physical",
-            "image": "/images/JustDance2021.jpg"
+            "image": "images/JustDance2021.jpg"
         },
         {
             "name": "Tony Hawk's™ Pro Skater™ 1 + 2",
@@ -198,7 +198,7 @@
             "releaseDate": "25/06/2021",
             "link": "https://www.nintendo.co.uk/Games/Nintendo-Switch/Tony-Hawk-s-Pro-Skater-1-2-1987422.html",
             "type": "physical",
-            "image": "/images/TonyHawks.jpg"
+            "image": "images/TonyHawks.jpg"
         },
         {
             "name": "Flashback",
@@ -206,7 +206,7 @@
             "releaseDate": "19/06/2018",
             "link": "https://www.nintendo.co.uk/Games/Nintendo-Switch-games/Flashback-1387444.html",
             "type": "digital",
-            "image": "/images/Flashback.jpg"
+            "image": "images/Flashback.jpg"
         },
         {
             "name": "Pokémon Legends: Arceus",
@@ -214,7 +214,7 @@
             "releaseDate": "28/01/2022",
             "link": "https://www.nintendo.co.uk/Games/Nintendo-Switch-games/Pokemon-Legends-Arceus-1930510.html",
             "type": "physical",
-            "image": "/images/PokemonLegendsArceus.jpg"
+            "image": "images/PokemonLegendsArceus.jpg"
         },
         {
             "name": "Nintendo Switch Sports",
@@ -222,7 +222,7 @@
             "releaseDate": "29/04/2022",
             "link": "https://www.nintendo.co.uk/Games/Nintendo-Switch-games/Nintendo-Switch-Sports-2168292.html",
             "type": "physical",
-            "image": "/images/NintendoSwitchSports.jpg"
+            "image": "images/NintendoSwitchSports.jpg"
         },
         {
             "name": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
@@ -230,7 +230,7 @@
             "releaseDate": "16/06/2022",
             "link": "https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/Teenage-Mutant-Ninja-Turtles-Shredder-s-Revenge-1951281.html",
             "type": "physical",
-            "image": "/images/TMNT-SR.jpg"
+            "image": "images/TMNT-SR.jpg"
         },
         {
             "name": "The Mahjong Huntress",
@@ -286,7 +286,7 @@
             "releaseDate": "16/01/2025",
             "link": "https://store.nintendo.co.uk/en/donkey-kong-country-returns-hd-adventure-bundle-B00732",
             "type": "physical",
-            "image": "/images/DonkeyKongCountryReturns.png",
+            "image": "images/DonkeyKongCountryReturns.png",
             "price": "55.99"
         }
     ]
