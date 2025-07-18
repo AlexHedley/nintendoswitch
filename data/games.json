@@ -279,6 +279,15 @@
         {
             "name": "Yu-Gi-Oh! Legacy of the Duelist : Link Evolution",
             "type": "digital"
+        },
+        {
+            "name": "Donkey Kong Country Returns HD Adventure Bundle",
+            "description": "",
+            "releaseDate": "16/01/2025",
+            "link": "https://store.nintendo.co.uk/en/donkey-kong-country-returns-hd-adventure-bundle-B00732",
+            "type": "physical",
+            "image": "/images/DonkeyKongCountryReturns.png",
+            "price": "55.99"
         }
     ]
 }
