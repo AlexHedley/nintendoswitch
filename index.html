@@ -53,7 +53,7 @@
                     <div ng-repeat="game in games | filter:searchText" class="col-md-3" style="margin-bottom: 50px;">
 
                         <div class="card" style="width: 18rem;">
-                            <img ng-if="game.image.length > 0" ng-src="{{game.image}}" class="card-img-top" alt="{{game.name}}">
+                            <img ng-if="game.image.length > 0" ng-src="{{game.image}}" ng-class="{'missing':game.missing}" class="card-img-top" alt="{{game.name}}">
                             <div class="card-header">
                                 {{game.name}}
                             </div>
@@ -65,7 +65,7 @@
                                 <!-- <span>{{game.type}}</span> -->
                             </div>
                             <div class="card-footer text-muted">
-                                <span ng-if="game.releaseDate.length > 0">{{game.releaseDate | toDate | date:'mediumDate'}}</span>
+                                <span ng-if="game.releaseDate.length > 0">{{game.releaseDate}}</span>
                             </div>
                         </div>
 
