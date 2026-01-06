@@ -234,51 +234,99 @@
         },
         {
             "name": "The Mahjong Huntress",
-            "type": "digital"
+            "description": "",
+            "releaseDate": "13/09/2018",
+            "link": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-download-software/The-Mahjong-Huntress-1439712.html",
+            "type": "digital",
+            "image": "images/TheMahjongHuntress.jpg"
         },
         {
             "name": "Anodyne",
-            "type": "digital"
+            "description": "",
+            "releaseDate": "28/02/2019",
+            "link": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-download-software/Anodyne-1517974.html",
+            "type": "digital",
+            "image": "images/Anodyne.jpg"
         },
         {
             "name": "STAR WARS Episode I: Racer",
-            "type": "digital"
+            "description": "",
+            "releaseDate": "23/06/2020",
+            "link": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-download-software/STAR-WARS-Episode-I-Racer-1802320.html",
+            "type": "digital",
+            "image": "images/StarWarsEpisodeIRacer.jpg"
         },
         {
             "name": "Star Wars™ Jedi Knight II: Jedi Outcast™",
-            "type": "digital"
+            "description": "",
+            "releaseDate": "24/09/2019",
+            "link": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-download-software/STAR-WARS-Jedi-Knight-II-Jedi-Outcast--1633064.html",
+            "type": "digital",
+            "image": "images/StarWarsJediOutcast.jpg"
         },
         {
             "name": "GODS Remastered",
-            "type": "digital"
+            "description": "",
+            "releaseDate": "",
+            "link": "https://gods.robotriotgames.com/",
+            "type": "digital",
+            "image": "images/GODS-Remastered.jpg"
         },
         {
             "name": "Battle Axe",
-            "type": "digital"
+            "description": "",
+            "releaseDate": "29/04/2021",
+            "link": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Battle-Axe-1948071.html",
+            "type": "digital",
+            "image": "images/BattleAxe.jpg"
         },
         {
             "name": "FUZE4 Nintendo Switch",
-            "type": "digital"
+            "description": "",
+            "releaseDate": "30/08/2019",
+            "link": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-download-software/FUZE4-Nintendo-Switch-1626336.html",
+            "type": "digital",
+            "image": "images/Fuze4NintendoSwitch.jpg"
         },
         {
             "name": "James Pond Operation Robocod",
-            "type": "digital"
+            "description": "",
+            "releaseDate": "21/03/2019",
+            "link": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-download-software/James-Pond-Codename-RoboCod-1534314.html",
+            "type": "digital",
+            "image": "images/JamesPondCodenameRobocod.jpg"
         },
         {
             "name": "LUNARK",
-            "type": "digital"
+            "description": "",
+            "releaseDate": "30/03/2023",
+            "link": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-download-software/LUNARK-2359700.html",
+            "type": "digital",
+            "image": "images/Lunark.jpg"
         },
         {
             "name": "Superbrothers: Sword & Sworcery EP",
-            "type": "digital"
+            "description": "",
+            "releaseDate": "30/11/2018",
+            "link": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-download-software/Superbrothers-Sword-Sworcery-EP-1440053.html",
+            "type": "digital",
+            "image": "images/SuperbrothersSwordAndSworceryEP.jpg"
         },
         {
             "name": "Mario Kart Live: Home Circuit",
-            "type": "digital"
+            "description": "",
+            "releaseDate": "16/10/2020",
+            "link": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-download-software/Mario-Kart-Live-Home-Circuit-1832413.html",
+            "type": "digital",
+            "image": "images/MarioKartLiveHomeCircuit.jpg"
         },
         {
             "name": "Yu-Gi-Oh! Legacy of the Duelist : Link Evolution",
-            "type": "digital"
+            "description": "",
+            "releaseDate": "20/08/2019",
+            "link": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Yu-Gi-Oh-Legacy-of-the-Duelist-Link-Evolution--1562791.html",
+            "type": "digital",
+            "image": "images/YuGiOhLegacyOfTheDuelistLinkEvolution.jpg"
         },
         {
             "name": "Donkey Kong Country Returns HD Adventure Bundle",
