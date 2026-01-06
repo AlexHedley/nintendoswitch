@@ -336,6 +336,15 @@
             "type": "physical",
             "image": "images/DonkeyKongCountryReturns.png",
             "price": "55.99"
+        },
+        {
+            "name": "Terminator 2D: NO FATE - Day One Edition",
+            "description": "",
+            "releaseDate": "12/12/2025",
+            "link": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-download-software/Terminator-2D-NO-FATE-2873493.html",
+            "type": "physical",
+            "image": "images/Terminator2D-NoFate.jpg",
+            "price": "42.95"
         }
     ]
 }
